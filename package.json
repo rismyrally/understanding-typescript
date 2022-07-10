@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon"
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -14,6 +14,6 @@
   "author": "Rismy Rally",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.19"
+    "lite-server": "^2.6.1"
   }
 }
